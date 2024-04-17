@@ -1,0 +1,14 @@
+{
+    "verbose": true,
+    "rootDir": ".",
+    "testRegex": "((\\.|/*.)(spec))\\.js?$",
+    "coveragePathIgnorePatterns": [
+        "mocks/"
+    ],
+    "moduleFileExtensions": [
+        "ts",
+        "js"
+    ],
+    "testEnvironment": "node",
+    "clearMocks": true
+}
